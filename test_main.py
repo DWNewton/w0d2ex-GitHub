@@ -7,4 +7,4 @@ class TestHelloWorld(unittest.TestCase):
         self.assertEqual(hello_world(), "Hello from Git!")
 
 if __name__ == '__main__':
-    unittest.main()
+    unittest.main(a)
